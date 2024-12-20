@@ -28,8 +28,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B7032F3B2D1525AD00423A91 /* TCASamplePackage */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = TCASamplePackage; sourceTree = "<group>"; };
-		B7032F512D1527A000423A91 /* GithubApp */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = GithubApp; sourceTree = "<group>"; };
 		B74E47972D05CFCE00B3D290 /* TCASample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TCASample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B74E47A72D05CFD000B3D290 /* TCASampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TCASampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B74E47B12D05CFD000B3D290 /* TCASampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TCASampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -95,8 +93,6 @@
 		B74E478E2D05CFCE00B3D290 = {
 			isa = PBXGroup;
 			children = (
-				B7032F512D1527A000423A91 /* GithubApp */,
-				B7032F3B2D1525AD00423A91 /* TCASamplePackage */,
 				B74E47992D05CFCE00B3D290 /* TCASample */,
 				B74E47AA2D05CFD000B3D290 /* TCASampleTests */,
 				B74E47B42D05CFD000B3D290 /* TCASampleUITests */,
